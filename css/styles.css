@@ -1,0 +1,527 @@
+/* Class Selectors */
+
+.btn-outline-success {
+  color: #e3fdfd;
+  border-color: #0f0f0f;
+  font-family: 'Langar', cursive;
+}
+
+.btn-outline-success:hover {
+  background-color: #71c9ce;
+}
+
+.nav-item {
+  padding: 5px;
+  font-family: 'Langar', cursive;
+  font-size: 1.34rem;
+  display: inline-block;
+  transition: .3s;
+  border-radius: 15px;
+  margin: 0 50px;
+  font-weight: bold;
+}
+
+.nav-item:hover {
+  background-color: #71c9ce;
+}
+
+.navbar-brand {
+  font-family: 'Langar', cursive;
+  font-size: 2.0rem;
+  font-weight: bold;
+}
+
+
+.mains {
+  background-color: #e3fdfd;
+  padding-top: 3%;
+}
+
+
+.main-tabs {
+  /* padding: 3%; */
+  /* position: relative;
+  margin: auto;
+  align-items: center; */
+}
+
+.tabs {
+  text-align: center;
+  /* margin: 30px 30px; */
+}
+
+
+
+
+.main-images{
+  transition: .5s;
+}
+
+.tab-section1 {
+}
+
+.tab-section2 {
+}
+
+.tab-section3 {
+}
+
+.tab-text {
+  /* text-align: left; */
+  font-family: 'Langar';
+  font-size: 1.5rem;
+}
+
+.main-tab1 {
+  /* padding-top: 30px; */
+}
+
+.main-tab5 {
+}
+
+.mains {
+}
+
+.credit {
+  padding: 2% 3%;
+}
+.carousel-item {
+  padding: 1% 35%;
+}
+
+.carousel-control-next {
+}
+
+.plan {
+  font-size: 2rem;
+  font-weight: 400px;
+  text-align: center;
+}
+
+.sub-header {
+  text-align: center;
+}
+
+.content {
+  text-align: center;
+
+}
+
+.buttons {
+  /* align-items: center; */
+  width: 100%;
+}
+
+.subs {
+  padding: 3% 3%;
+}
+
+.gif {
+  /* margin-left: 7%; */
+}
+
+.em1 {
+  /* font-size: 1.09rem;
+  position: absolute; */
+}
+
+.quote {
+  padding: 0% 10%;
+  line-height: 2;
+}
+
+.footer-icon {
+  margin: 20px;
+  font-size: 1.5rem;
+}
+
+.main-content {
+  text-align: center;
+  margin: 0;
+}
+
+.main-images {
+  border-radius: 7%;
+}
+
+.footer-icon {
+  font-size: 2rem;
+}
+
+/* .videos {
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 0;
+} */
+
+/* .col-md-12 {
+  align-items: center;
+} */
+
+
+/* Tag Selectors */
+
+body {
+  /* font-family: 'Calistoga', sans-serif; */
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Cabin', sans-serif;
+}
+
+h2 {
+  font-family: 'Cabin', sans-serif;
+}
+
+
+
+/* ID Selectors */
+
+#intro {
+  font-family: 'Langar', sans-serif;
+  background-color: white;
+  font-size: 3.5rem;
+  text-align: center;
+}
+
+
+#separator {
+  /* margin-top: 20px; */
+}
+
+#quotes {
+  background-color: #00bcd4;
+  font-family: 'Langar';
+
+  text-align: center;
+  font-size: 1.3rem;
+}
+
+#press {
+  background-color: #00bcd4;
+  padding-left: 13%;
+  text-align: center;
+  padding-bottom: 1%;
+  margin: 0;
+  padding-right: 10%;
+}
+
+#form {
+  position: absolute;
+  left: 780px;
+  bottom: 280px;
+  width: 70%;
+}
+
+#sub-header1 {
+  padding-top: 3%;
+}
+
+#sub {
+  padding: 2% 10%;
+}
+
+#forbes {
+  width: 50%;
+}
+
+#cnn {
+  width: 50%;
+  position: relative;
+  bottom: 18px;
+}
+
+#footer {
+  background-color: #a6e3e9;
+  padding: 150px;
+  text-align: center;
+}
+
+#copyright {
+  margin-top: 40px;
+   color: grey;
+}
+
+#facebook:hover {
+  color: #3b5998;
+}
+
+#twitter:hover {
+  color: #00acee;
+}
+
+#instagram:hover {
+  /* color: #8a3ab9;
+  color: #e95950; */
+  color: #bc2a8d;
+  /* color: #fccc63;
+  color: #fbad50;
+  color: #cd486b;
+  color: #4c68d7; */
+}
+
+#envelope:hover {
+  color: #25D366;
+}
+
+#youtube:hover {
+  color: #FF0000;
+}
+
+#youtube {
+  color: black;
+}
+
+#envelope {
+  color: black;
+}
+
+#instagram {
+  color: black;
+}
+
+#twitter {
+  color: black;
+}
+
+#facebook {
+  color: black;
+}
+
+#resurgence:hover {
+  border-style: solid;
+  border-color: #8ad7c1;
+  border-width: thick;
+}
+
+#combat:hover {
+  border-style: solid;
+  border-color: #008891;
+  border-width: thick;
+}
+
+#impact:hover {
+  border-style: solid;
+  border-color: #a7c5eb;
+  border-width: thick;
+}
+
+#history:hover {
+  border-style: solid;
+  border-color: #7e7474;
+  border-width: thick;
+}
+
+#myth:hover {
+  border-style: solid;
+  border-color: #c79ecf;
+  border-width: thick;
+}
+
+#discern:hover {
+  border-style: solid;
+  border-color: #f0f0f0;
+  border-width: thick;
+}
+
+#sub {
+  /* background-color: #e3fdfd; */
+}
+
+#vid-text {
+  font-family: 'Langar';
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-size: 3rem;
+  color: #121013;
+  font-weight: bold;
+  /* background-color: #bbf1fa; */
+}
+
+#line-break {
+  border-style: dotted none none;
+  border-color: black;
+  border-width: 7px;
+  height: 0px;
+  width: 30%;
+}
+
+/* #vid-section {
+  align-items: center;
+} */
+
+.contact-page {
+/* margin: auto; */
+}
+
+.social-info {
+  font-family: 'Special Elite', sans-serif;
+  font-weight: bold;
+  font-size: 3.5rem;
+  margin-left: 103px;
+  margin-bottom: 0;
+}
+
+.social {
+  /* margin: auto; */
+  font-family: 'Special Elite', cursive;
+  font-size: 1.3rem;
+  background-color: #fff5ea;
+  /* padding: 1.6%; */
+  /* text-align: center; */
+
+}
+
+#first {
+  margin-top: 0;
+}
+
+#last {
+  /* margin-bottom: 4%; */
+}
+
+.text {
+    margin-left: 100px;
+}
+
+.ford {
+  /* text-align: center; */
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.text-input {
+  margin: 10px;
+}
+
+.form {
+  background-color: #fff5ea;
+  font-family: 'Special Elite';
+  padding: 1.5%;
+
+}
+#btn-colour {
+  background-color: white;
+  border-color: black;
+}
+
+#btn-colour:hover {
+  background-color: #f7dad9;
+}
+
+.point {
+  margin-left: 70px;
+}
+
+.submit {
+  /* margin-bottom: 5%; */
+}
+
+#brk {
+  border-style: dotted none none;
+  border-color: black;
+  border-width: 7px;
+  height: 0px;
+  width: 30%;
+
+}
+
+#brke {
+  background-color: #fff5ea;
+}
+
+
+#message {
+  /* border-radius: 1%; */
+}
+
+.point1 {
+  height: 2.5rem;
+  width: 20rem;
+}
+
+.contact-details {
+  font-family: 'Special Elite', sans-serif;
+  font-weight: bold;
+  font-size: 3.5rem;
+  margin-left: 90px;
+  margin-bottom: 0;
+  margin-top: 100px;
+}
+
+
+#form-top {
+  margin: 0;
+}
+
+
+#contact-p {
+  margin: 0;
+}
+
+
+
+/* Discerning Fake News Page */
+
+.header-top {
+  font-family: 'Special Elite';
+  font-size: 3.3rem;
+  font-weight: bold;
+  margin: 20px;
+  text-decoration: underline;
+}
+
+.header-body {
+  font-family: 'Special Elite', sans-serif;
+  text-align: left;
+  position: relative;
+  font-size: 1.3rem;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.text-body {
+  background-color: #fff5ea;
+}
+
+.steps {
+  font-family: 'Special Elite', sans-serif;
+  margin: 20px 20px 20px 0px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.looking-deeper {
+  font-family: 'Special Elite', sans-serif;
+}
+
+#bottom {
+  margin-bottom: 90px;
+}
+
+.mains-videos {
+  background-color: #fff5ea;
+  padding-top: 3%;
+}
+
+.videos {
+  margin-top: 20px;
+  margin-bottom: 70px;
+  /* border-radius: 5%; */
+}
+
+.vidz:hover {
+  border-style: solid;
+  border-color: #a6e3e9;
+  transition: .5s;
+  border-radius: 7px;
+  border-width: 12px;
+}
+
+
+#about {
+  text-align: center;
+}

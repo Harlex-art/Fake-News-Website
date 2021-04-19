@@ -290,6 +290,14 @@ h2 {
   color: black;
 }
 
+#f-form {
+  color: black;
+}
+
+#f-form:hover {
+  color: #ff8e71;
+}
+
 #resurgence:hover {
   border-style: solid;
   border-color: #8ad7c1;

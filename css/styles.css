@@ -522,11 +522,11 @@ h2 {
 }
 
 .vidz:hover {
-  border-style: solid;
+/*   border-style: solid;
   border-color: #a6e3e9;
   transition: .5s;
   border-radius: 7px;
-  border-width: 12px;
+  border-width: 12px; */
 }
 
 
